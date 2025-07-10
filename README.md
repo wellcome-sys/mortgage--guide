@@ -1,5 +1,3 @@
-# mortgage--guide
-mortgage-guide
 <!DOCTYPE html>
 <html lang="he" dir="rtl">
 <head>
